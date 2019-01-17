@@ -20,5 +20,4 @@
       :description "QRCodes with clojure"
       :url "https://github.com/mbuczko/clj-qrgen"
       :scm {:url "https://github.com/mbuczko/clj-qrgen"}
-      :license {:name "Eclipse Public License"
-                :url "http://www.eclipse.org/legal/epl-v10.html"}})
+      :license {"Eclipse Public License" "http://www.eclipse.org/legal/epl-v10.html"}})
