@@ -1,3 +1,5 @@
+[![Clojars Project](https://img.shields.io/clojars/v/defunkt/clj-qrgen.svg)](https://clojars.org/defunkt/clj-qrgen)
+
 # Summary
 
 Forked version of killme2008's [clj.qrgen](https://github.com/killme2008/clj.qrgen) - clojure wrapper over [QRGen](https://github.com/kenglxn/QRGen) with iCal scheme added.
